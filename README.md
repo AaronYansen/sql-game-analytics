@@ -70,11 +70,11 @@
 
 ##### 
 
-##### • sql\_queries/ — SQL-скрипты.
+##### • [sql_queries/](sql_queries/) — SQL-скрипты.
 
-##### • data/ — файлы данных с визуализацией(excel).
+##### • [data/](data/) — файлы данных с визуализацией(excel).
 
-##### • reports/ - презентация проекта (power point).
+##### • [reports/](reports/) - презентация проекта (power point).
 
 ##### 
 
